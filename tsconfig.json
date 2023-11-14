@@ -11,6 +11,11 @@
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
     "sourceMap": true,
+    "paths": {
+      "my-form-1200": [
+        "./dist/my-form-1200"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
